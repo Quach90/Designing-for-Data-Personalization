@@ -1,0 +1,152 @@
+{
+    "name": "Joakim Gregersen Quach",
+    "location":"Brooklyn, NY",
+    "mail": "joakimquach@gmail.com",
+    "website": "www.joakimquach.com",
+    "skills": [{
+        "category": "Programming",
+        "items": [
+            "Java",
+            "C++",
+            "HTML5",
+            "CSS3",
+            "Swift (iOS)",
+            "Android",
+            "Javascript (jQuery, AngularJS, etc.)",
+            "Node.js",
+            "Processing/P5",
+            "Dart",
+            "TypeScript",
+            "XML/JSON",
+            "AJAX",
+            "Python",
+            "C",
+            "C#",
+            "SQL",
+            "Assembly X86"
+        ]
+    }, {
+        "category": "Physical Computing",
+        "items": [
+            "Arduino",
+            "Raspberry Pi",
+            "Wireless",
+            "PCB",
+            "Circuit Design",
+            "Wearable"
+        ]
+    }, {
+        "category": "Design",
+        "items": [
+            "Illustrator",
+            "Photoshop",
+            "InDesign"
+        ]
+    }, {
+        "category": "Multimedia",
+        "items": [
+            "Rhino",
+            "Blender",
+            "After Effects",
+            "Premiere",
+            "Unity",
+            "PhotoScan",
+            "VectorWorks"
+        ]
+    }, {
+        "category": "Methods/Models",
+        "items": [
+            "Agile (SCRUM)",
+            "KISS",
+            "Waterfall",
+            "Prototyping",
+            "Incremental",
+            "Extreme"
+        ]
+    }, {
+        "category": "Fabrication",
+        "items": [
+            "3D Printing",
+            "Laser Cutting",
+            "Wood/Metal shop",
+            "CNC"
+        ]
+    }, {
+        "category": "Languages",
+        "items": [
+            "Enlish (Fluent)",
+            "Danish (Native)"
+        ]
+    }],
+    "exhibitions":[
+      "ITP Winter Show",
+      "ITP Spring Show",
+      "World Science Festival 2016"
+    ],
+    "experience":[
+      {
+        "organization":"Kare Media",
+        "position":"Web Developer",
+        "startDate":"06/2016",
+        "endDate":"Present",
+        "descriptionItems":[
+          "In charge of developing and preparing a webshop for launch",
+          "Developed using HTML, SCSS, Javascript (Angular etc.)"
+        ]
+      },
+      {
+        "organization":"Microsoft Research",
+        "position":"Design Expo Intern",
+        "startDate":"02/2016",
+        "endDate":"04/2016",
+        "descriptionItems":[
+          "'EldSafe' - A CUI based system for elderly and disabled",
+          "Theme: Achieving Symbiosis and the Conversational User Interface"
+        ]
+      },
+      {
+        "organization":"New York University",
+        "position":"Graduate Work-Study",
+        "startDate":"09/2015",
+        "endDate":"Present",
+        "descriptionItems":[
+          "Office hours to teach students PCB (Hardlab)",
+          "Responsible to acquire all necessary materails for Hardlab"
+        ]
+      },
+      {
+        "organization":"Aarhus University",
+        "position":"Teaching Assistant",
+        "startDate":"08/2013",
+        "endDate":"01/2015",
+        "descriptionItems":[
+          "Taught Introduction to Programming, Programming 2,Web Technology.",
+          "Materials covered: Java and Web technologies (HTML, XML, CSS, JavaScript etc.)"
+        ]
+      }
+    ],
+    "education":[
+      {
+        "school":"New York University",
+        "department":"Tisch School of the Arts",
+        "startDate":"09/2015",
+        "endDate":"05/2017",
+        "degree":"Candidate for MPS in Interactive Telecommunications Program (ITP)",
+        "notes":[
+          "NYU Scholarship Award",
+          "Denmark America Foundation Scholarship (~Fulbright)"
+        ]
+      },
+      {
+        "school":"Aarhus University",
+        "department":"Department of Computer Science",
+        "startDate":"08/2012",
+        "endDate":"06/2015",
+        "degree":"Bachelor of Science in IT - Product Development",
+        "notes":[
+          "Courses: Programming, Interaction Design, Web Technology, Experience Design, Advanced Web Programming, Pervasive Computing, Databases, Interactive Media, Visualization and Project Communication, Development Methods, Innovation Processes"
+        ]
+      }
+    ]
+
+}
