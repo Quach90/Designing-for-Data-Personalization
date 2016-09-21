@@ -28,7 +28,7 @@ function nextArticle(articles, current){
   if(article.multimedia.length > 0){
     $("#cardImage").attr("src", article.multimedia[4].url);
   }else{
-    $("#cardImage").attr("src", "http://epaper2.mid-day.com/images/no_image_thumb.gif");
+    $("#cardImage").attr("src", "https://epaper2.mid-day.com/images/no_image_thumb.gif");
   }
   $("#cardSubtext").text(article.abstract);
   $("#readMore").click(function() {
