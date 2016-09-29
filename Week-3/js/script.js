@@ -46,7 +46,7 @@ function draw() {
     background('white');
     if (singleMode) {
         chosen.drawSingle();
-        if(mouseIsPressed && mouseX >= windowWidth/2 - 150 && mouseX <= windowWidth/2 + 150 && mouseY >= windowHeight/2 - 150 && mouseY <= windowHeight/2 + 150){
+        if(mouseIsPressed && mouseX >= windowWidth/2 - 75 && mouseX <= windowWidth/2 + 75 && mouseY >= windowHeight/2 - 75 && mouseY <= windowHeight/2 + 75){
           singleMode = false;
         }
     } else {
@@ -116,7 +116,7 @@ function SectionShape(data, x, y) {
     this.isActivated = function() {
         //reset to false
         this.isActive = false;
-        if (mouseX >= this.x - this.numberOfResults && mouseX <= this.x + this.numberOfResults && mouseY >= this.y - this.numberOfResults && mouseY <= this.y + this.numberOfResults) {
+        if (mouseX >= this.x - this.numberOfResults/2 && mouseX <= this.x + this.numberOfResults/2 && mouseY >= this.y - this.numberOfResults/2 && mouseY <= this.y + this.numberOfResults/2) {
             return this.isActive = true;
         }
         return this.isActive = false;
